@@ -126,9 +126,9 @@ for metrica in METRICAS:
     
     plt.title(f'{metrica.replace("_", " ").title()} - Comparação Global', fontsize=16, pad=20)
     plt.ylabel(metrica.replace("_", " ").title(), fontsize=14)
-    plt.xticks(posicoes, ALGORITMOS, fontsize=12, rotation=0)  # Rótulos no eixo X
+    plt.xticks(posicoes, ALGORITMOS, fontsize=12, rotation=0) 
     plt.yticks(fontsize=12)
-    plt.grid(True, axis='y', linestyle='--', alpha=0.7)  # Grid horizontal suave
+    plt.grid(True, axis='y', linestyle='--', alpha=0.7)  
     
     for barra in barras:
         for rect in barra:
