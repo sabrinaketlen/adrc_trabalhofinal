@@ -1,0 +1,20 @@
+PacketLossRatio: 43.1349%, AvgDelay: 0.527438 s, ControlOverhead: 56.8012%
+
+PacketLossRatio: 43.7424%, AvgDelay: 0.547795 s, ControlOverhead: 56.8649%
+
+PacketLossRatio: 43.8339%, AvgDelay: 0.609014 s, ControlOverhead: 56.9288%
+
+PacketLossRatio: 45.7298%, AvgDelay: 0.512963 s, ControlOverhead: 57.9821%
+
+PacketLossRatio: 42.2125%, AvgDelay: 0.524866 s, ControlOverhead: 56.0679%
+
+PacketLossRatio: 42.8121%, AvgDelay: 0.54734 s, ControlOverhead: 56.3067%
+
+PacketLossRatio: 43.493%, AvgDelay: 0.54981 s, ControlOverhead: 56.5476%
+
+PacketLossRatio: 40.0579%, AvgDelay: 0.557817 s, ControlOverhead: 55.0326%
+
+PacketLossRatio: 42.4441%, AvgDelay: 0.576443 s, ControlOverhead: 56.338%
+
+PacketLossRatio: 44.6052%, AvgDelay: 0.555174 s, ControlOverhead: 57.5104%
+
