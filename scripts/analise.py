@@ -60,10 +60,8 @@ def calcular_ic(dados, confianca=NIVEIS_CONFIANCA):
 
 for algoritmo in ALGORITMOS:
     for fator in FATORES:
-        # Filtrar dados do algoritmo
         df_algoritmo = df[df['algoritmo'] == algoritmo]
         
-        # Agrupar por nível do fator
         grupos = df_algoritmo.groupby(fator)
         
         
